@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name 3386F-1-103LF)(type KiCad)(uri /home/john/Projects/MPPTSolarPwrModule/KiCAD_Models/3386F-1-103LF)(options "")(descr ""))
+  (lib (name INA3221AIRGVT)(type KiCad)(uri /home/john/Projects/MPPTSolarPwrModule/KiCAD_Models/INA3221AIRGVT)(options "")(descr ""))
+)
