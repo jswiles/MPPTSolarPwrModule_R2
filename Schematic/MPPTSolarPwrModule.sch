@@ -2350,8 +2350,6 @@ $EndComp
 Connection ~ 8950 7450
 Wire Wire Line
 	8950 7450 10300 7450
-Text Notes 12650 9150 0    50   ~ 0
-TODO: Change all components from hand solder to standard SMT pads
 $Comp
 L Connector_Generic:Conn_01x02 J11
 U 1 1 62C6A412
